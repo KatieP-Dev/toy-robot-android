@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke
+        android:width="@dimen/item_background_border_width"
+        android:color="@color/grid_border_clr" />
+    <solid android:color="@android:color/transparent" />
+</shape>

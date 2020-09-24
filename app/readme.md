@@ -1,4 +1,3 @@
-# toy-robot-android
 Toy Robot Simulator
 
 Description:
